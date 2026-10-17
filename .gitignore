@@ -1,0 +1,21 @@
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+data/
+research/references/
+*.egg-info/
+.tools/
+samples/*.ogv
+samples/*.webm
+samples/*.mp4
+.pnpm-store/
+.ruff_cache/
+*.tsbuildinfo
+clipx-source.zip
+# Local validation outputs and workstation-only runtime helper
+samples/*
+!samples/README.md
+scripts/local-env.sh

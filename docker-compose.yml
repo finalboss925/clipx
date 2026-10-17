@@ -1,0 +1,53 @@
+services:
+  redis:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes
+    volumes:
+      - redis-data:/data
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+  api:
+    build: .
+    env_file: .env
+    environment:
+      CLIPX_DATA: /app/data
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: ${DATABASE_URL:-sqlite:////app/data/clipx.db}
+    volumes:
+      - clipx-data:/app/data
+    ports:
+      - "127.0.0.1:8000:8000"
+    depends_on:
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:8000/api/health')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+  worker:
+    build: .
+    command: ["celery", "-A", "clipx.tasks.celery", "worker", "--loglevel=info", "--concurrency=1"]
+    env_file: .env
+    environment:
+      CLIPX_DATA: /app/data
+      REDIS_URL: redis://redis:6379/0
+      DATABASE_URL: ${DATABASE_URL:-sqlite:////app/data/clipx.db}
+    volumes:
+      - clipx-data:/app/data
+    depends_on:
+      api:
+        condition: service_healthy
+  frontend:
+    build: ./frontend
+    ports:
+      - "127.0.0.1:5173:80"
+    depends_on:
+      api:
+        condition: service_healthy
+volumes:
+  redis-data:
+  clipx-data:

@@ -1,0 +1,113 @@
+[
+  {
+    "repo": "joe-jns/long-video-to-shorts",
+    "commit": "61bd65f29b3e2a8b1062d6f0da4042451d796965",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "MIT License\n\nCopyright (c) 2026 joe-jns\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n---\n\nBundled font: DejaVu Sans Bold (assets/fonts/DejaVuSans-Bold.ttf) is distributed\nunder the DejaVu Fonts License (based on the Bitstream Vera Fonts License), which\npermits redistribution. See https://dejavu-fonts.github.io/License.html\n"
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "zhouxiaoka/autoclip",
+    "commit": "8f32453dc850596a60110b8dc1482098bd014c90",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "MIT License\n\nCopyright (c) 2024 AutoClip Team\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "ClipsAI/video-editor",
+    "commit": "5a972d75f4c6c3f650783255a3479af4a2bae8bd",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "The MIT License (MIT)\n\nCopyright (c) 2023-24 Clips AI, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "ClipsAI/docs",
+    "commit": "bc83b66ba1beb71de7a20e5fef3d78d1ef99a4d8",
+    "licenses": [],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "rafapecino/clipforge-ai",
+    "commit": "0331fd8e514462f5c727def6b4cb91864a6f9082",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "MIT License\n\nCopyright (c) 2026 Rafa Pecino (PecinoGP)\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "ClipsAI/clipsai",
+    "commit": "8e73c8adc112c745b84ec240f11a91457bfd3141",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "The MIT License (MIT)\n\nCopyright (c) 2023 Clips AI, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE.\n"
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "Shaarav4795/ClippedAI",
+    "commit": "5b5d6db2a0082b0a28625a3d2e50b0e447363aaf",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)\n\nThis work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. \nTo view a copy of this license, visit https://creativecommons.org/licenses/by-nc/4.0/ \n\nYou are free to:\n- Share \u2014 copy and redistribute the material in any medium or format\n- Adapt \u2014 remix, transform, and build upon the material\n\nUnder the following terms:\n- Attribution \u2014 You must give appropriate credit, provide a link to the license, \n  and indicate if changes were made. You may do so in any reasonable manner, \n  but not in any way that suggests the licensor endorses you or your use.\n- NonCommercial \u2014 You may not use the material for commercial purposes.\n\nNo additional restrictions \u2014 You may not apply legal terms or technological \nmeasures that legally restrict others from doing anything the license permits.\n\nFor commercial use inquiries, please contact: aryashaarav@icloud.com"
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "JeremySNR/clip-forge",
+    "commit": "084d0b2933f64800ee5ca1b22269704f060e65f5",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "MIT License\n\nCopyright (c) 2026 Cutawan Contributors\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "VadlapatiKarthik/autoclipper",
+    "commit": "6d02eb956a2041f4e6db99ad8089fa1679795d57",
+    "licenses": [],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "ClipsAI/editor",
+    "commit": "5a972d75f4c6c3f650783255a3479af4a2bae8bd",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "The MIT License (MIT)\n\nCopyright (c) 2023-24 Clips AI, Inc.\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in\nall copies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN\nTHE SOFTWARE."
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  },
+  {
+    "repo": "Anil-matcha/ai-clipping-comfyui",
+    "commit": "d0a7b1943dfd1e144c9bfe656e57941623b6408d",
+    "licenses": [
+      {
+        "file": "LICENSE",
+        "text": "MIT License\n\nCopyright (c) 2023 Anil Chandra Naidu Matcha\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n"
+      }
+    ],
+    "reuse": "No source copied; architecture reference only"
+  }
+]
